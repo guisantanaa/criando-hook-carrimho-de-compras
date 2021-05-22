@@ -1,3 +1,3 @@
 ### Apresentação do projeto
 
-<img src="public/image.png" alt="imagem do projeto">
+<img src="/public" alt="imagem do projeto">
